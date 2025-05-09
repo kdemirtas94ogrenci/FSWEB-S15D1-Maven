@@ -1,0 +1,128 @@
+# Created at 2025-05-09T13:41:35.302
+[SUREFIRE] std/in stream corrupted
+java.io.IOException: Command NOOP unexpectedly read Void data with length 4.
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:130)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+
+# Created at 2025-05-09T13:47:47.464
+Unexpected IOException with stream: Eklenmesini istediğiniz elemanları giriniz.
+
+
+# Created at 2025-05-09T13:47:47.512
+Unexpected IOException: 7,1,MainTest,testAddItemsMethod,null,No line found,null,No line found,MainTest.testAddItemsMethod:34 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at MainTest.testAddItemsMethod(MainTest.java:34)\000A
+
+
+# Created at 2025-05-09T13:47:47.527
+Unexpected IOException: 5,1,MainTest,testAddItemsSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.527
+Unexpected IOException with stream: Eklenmesini istediğiniz elemanları giriniz.
+
+
+# Created at 2025-05-09T13:47:47.527
+Unexpected IOException: 7,1,MainTest,testAddItemsSorted,null,No line found,null,No line found,MainTest.testAddItemsSorted:57 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at MainTest.testAddItemsSorted(MainTest.java:57)\000A
+
+
+# Created at 2025-05-09T13:47:47.527
+Unexpected IOException: 5,1,MainTest,testRemoveItemsMethod,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.527
+Unexpected IOException: 7,1,MainTest,testRemoveItemsMethod,null,No line found,null,No line found,MainTest.testRemoveItemsMethod:72 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at MainTest.testRemoveItemsMethod(MainTest.java:72)\000A
+
+
+# Created at 2025-05-09T13:47:47.543
+Unexpected IOException: 5,1,MainTest,testRemoveItemsSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.543
+Unexpected IOException with stream: Eklenmesini istediğiniz elemanları giriniz.
+
+
+# Created at 2025-05-09T13:47:47.543
+Unexpected IOException: 7,1,MainTest,testRemoveItemsSorted,null,No line found,null,No line found,MainTest.testRemoveItemsSorted:87 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at MainTest.testRemoveItemsSorted(MainTest.java:87)\000A
+
+
+# Created at 2025-05-09T13:47:47.543
+Unexpected IOException: 5,1,MainTest,testCheckItemsInListSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.543
+Unexpected IOException: 6,1,MainTest,testCheckItemsInListSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.559
+Unexpected IOException: 5,1,MainTest,testRemoveContact,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.559
+Unexpected IOException: 8,1,MainTest,testRemoveContact,null,expected: <false> but was: <true>,null,expected: <false> but was: <true>,MainTest.testRemoveContact:138 expected: <false> but was: <true>,org.opentest4j.AssertionFailedError: expected: <false> but was: <true>\000A\0009at MainTest.testRemoveContact(MainTest.java:138)\000A
+
+
+# Created at 2025-05-09T13:47:47.559
+Unexpected IOException: 5,1,MainTest,testAddItemsWithSameValues,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.559
+Unexpected IOException with stream: Eklenmesini istediğiniz elemanları giriniz.
+
+
+# Created at 2025-05-09T13:47:47.559
+Unexpected IOException: 7,1,MainTest,testAddItemsWithSameValues,null,No line found,null,No line found,MainTest.testAddItemsWithSameValues:46 \00BB NoSuchElement No line found,java.util.NoSuchElementException: No line found\000A\0009at MainTest.testAddItemsWithSameValues(MainTest.java:46)\000A
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException: 5,1,MainTest,testPrintSortedInListSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException with stream: potato
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException with stream: tomato
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException: 6,1,MainTest,testPrintSortedInListSorted,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException: 5,1,MainTest,testFindContact,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.574
+Unexpected IOException: 6,1,MainTest,testFindContact,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.591
+Unexpected IOException: 5,1,MainTest,testFindContactString,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.591
+Unexpected IOException: 6,1,MainTest,testFindContactString,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.591
+Unexpected IOException: 5,1,MainTest,testUpdateContact,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.591
+Unexpected IOException: 6,1,MainTest,testUpdateContact,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.591
+Unexpected IOException: 5,1,MainTest,testQueryContactString,null,null,null
+
+
+# Created at 2025-05-09T13:47:47.606
+Unexpected IOException: 8,1,MainTest,testQueryContactString,null,expected: <org.example.mobile.Contact@96def03> but was: <org.example.mobile.Contact@5ccddd20>,null,expected: <org.example.mobile.Contact@96def03> but was: <org.example.mobile.Contact@5ccddd20>,MainTest.testQueryContactString:166 expected: <org.example.mobile.Contact@96def03> but was: <org.example.mobile.Contact@5ccddd20>,org.opentest4j.AssertionFailedError: expected: <org.example.mobile.Contact@96def03> but was: <org.example.mobile.Contact@5ccddd20>\000A\0009at MainTest.testQueryContactString(MainTest.java:166)\000A
+
+
+# Created at 2025-05-09T13:47:49.906
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,MainTest,null,null,null
+
+
